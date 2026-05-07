@@ -1,4 +1,4 @@
-# 🍯 The Nectar by Example.
+# 🍯 Nectar by Examples.
 
 ## Rationale:
 
