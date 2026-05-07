@@ -1,4 +1,4 @@
-# 🍯 Nectar by Examples.
+# 🍯 The Nectar Primer.
 
 ## Rationale:
 
