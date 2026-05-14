@@ -1,6 +1,6 @@
-# 🍯 The Nectar Primer.
+# The Nectar Primer
 
-## Rationale:
+## Rationale
 
 Get started with Nectar using the following examples. Works with Nectar and Visual Nectar.
 
