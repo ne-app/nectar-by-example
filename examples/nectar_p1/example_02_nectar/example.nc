@@ -1,4 +1,4 @@
-extern exit;
+const extern exit;
 
 const main()
 {

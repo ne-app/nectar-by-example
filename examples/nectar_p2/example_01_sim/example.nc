@@ -1,4 +1,4 @@
-extern sample_sim_lock;
+const extern sample_sim_lock;
 
 const main()
 {
